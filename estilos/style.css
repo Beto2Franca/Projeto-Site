@@ -14,3 +14,9 @@ main{
     padding: 10px;
     box-shadow: 3px 3px 3px rgb(98, 94, 94);
 }
+h1{
+    font-size: 25px;
+}
+h2{
+    font-size: 18px;
+}
