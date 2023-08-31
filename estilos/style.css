@@ -37,13 +37,15 @@ p{
 .video{
    position: relative;
    margin-top: 40px;
+  
    padding-bottom: 60%;
+   
 }
 iframe{
     position: absolute;
     width: 95%;
     height: 95%;
-    bottom: 15%;
+    bottom: 4%;
     left: 3%;
     
     
